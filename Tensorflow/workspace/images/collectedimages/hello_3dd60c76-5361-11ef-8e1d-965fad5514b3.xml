@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello_3dd60c76-5361-11ef-8e1d-965fad5514b3.jpg</filename>
+	<path>/Users/matmani/Desktop/Sign-Language-Image-Translator/Tensorflow/workspace/images/collectedimages/hello_3dd60c76-5361-11ef-8e1d-965fad5514b3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1249</xmin>
+			<ymin>386</ymin>
+			<xmax>1627</xmax>
+			<ymax>999</ymax>
+		</bndbox>
+	</object>
+</annotation>
